@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970110317566",
+    "project_id": "kasiwallet-450e9",
+    "storage_bucket": "kasiwallet-450e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970110317566:android:3d533e84ab6ace548506af",
+        "android_client_info": {
+          "package_name": "com.palife.agentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_D7QLfOuxzV0MbMUVRuajk8GaVqrCqyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970110317566:android:eb306fce5d04a2c58506af",
+        "android_client_info": {
+          "package_name": "online.palife.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_D7QLfOuxzV0MbMUVRuajk8GaVqrCqyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
